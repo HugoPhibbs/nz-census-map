@@ -1,0 +1,9 @@
+[submodule "nz-census-maps-frontend"]
+	path = nz-census-maps-frontend
+	url = git@github.com:HugoPhibbs/nz-census-map-frontend.git
+[submodule "nz-census-map-frontend"]
+	path = nz-census-map-frontend
+	url = git@github.com:HugoPhibbs/nz-census-map-frontend.git
+[submodule "nz-census-map-backend"]
+	path = nz-census-map-backend
+	url = git@github.com:HugoPhibbs/nz-census-map-backend.git
