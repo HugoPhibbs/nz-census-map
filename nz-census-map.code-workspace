@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "nz-census-map-backend"
+        },
+        {
+            "path": "nz-census-map-frontend"
+        },
+        {
+            "path": "."
+        }
+    ]
+}
