@@ -1,6 +1,6 @@
 # NZ Census Map
 
-A website to visualise the 2023 NZ Census using an interactive map, available at [nz-census-map.com](https://nz-census-map.com/).
+A website to visualise and compare NZ censuses using an interactive map, available at [nz-census-map.com](https://nz-census-map.com/).
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="phone-screenshot.png" width="16%" alt="Phone Screenshot"/>
